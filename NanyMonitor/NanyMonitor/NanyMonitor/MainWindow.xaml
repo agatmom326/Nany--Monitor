@@ -1,0 +1,55 @@
+﻿<Window x:Class="NanyMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NanyMonitor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="900" HorizontalAlignment="Center" VerticalAlignment="Center" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF0D0E1F">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="moon.png" Stretch="None" Opacity="0.6"/>
+            
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5*" />
+
+
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70*" />
+            <ColumnDefinition Width="70*" />
+            <ColumnDefinition Width="70*" />
+            <ColumnDefinition Width="70*" />
+
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Btn1" Content="STRONA GŁÓWNA" Grid.Row="0" Grid.Column="0" Margin="6, 6,3, 6" Background="#FF444557" FontFamily="Microsoft YaHei UI Light" FontSize="14" Foreground="White" BorderBrush="#FF444557"/>
+        <Button x:Name="Btnlog" Content="ZALOGUJ" Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2" Margin="25" Background="#FF444557" FontFamily="Microsoft YaHei UI Light" FontSize="14" Click="Btnlog_Click" BorderBrush="#FF444557" Foreground="#FFFAF8F8"/>
+        <Label Content="Hello in Nany Monitor !" Grid.Column="1" Grid.ColumnSpan="2"  HorizontalAlignment="Left" Margin="24.8,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="397" Height="76" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontSize="36" FontFamily="Microsoft JhengHei UI Light">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <TextBox Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="27" Margin="24.8,48,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Wpisz " VerticalAlignment="Top" Width="397" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Microsoft JhengHei UI Light" FontSize="14"/>
+        <Label Content="LOGIN" Grid.Column="1" Grid.ColumnSpan="2"  HorizontalAlignment="Left" Margin="24.8,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="397" Height="33" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontSize="14" FontFamily="Microsoft JhengHei UI Light"/>
+        <TextBox Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="27" Margin="24.8,48,0,0" Grid.Row="4" TextWrapping="Wrap" Text="Wpisz " VerticalAlignment="Top" Width="397" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Microsoft JhengHei UI Light" FontSize="14"/>
+        <Label Content="HASŁO" Grid.Column="1" Grid.ColumnSpan="2"  HorizontalAlignment="Left" Margin="24.8,10,0,0" Grid.Row="4" VerticalAlignment="Top" Width="397" Height="33" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontSize="14" FontFamily="Microsoft JhengHei UI Light"/>
+        <Button x:Name="Btn2" Content="DANE DZIECKA" Grid.Row="0" Grid.Column="1" Margin="6, 6,3, 6" Background="#FF444557" FontFamily="Microsoft YaHei UI Light" FontSize="14" Click="Btn2_Click" Foreground="White" BorderBrush="#FF444557"/>
+        <Button x:Name="Btn3" Content="NADZÓR" Grid.Row="0" Grid.Column="2" Margin="6, 6,3, 6" Background="#FF444557" FontFamily="Microsoft YaHei UI Light" FontSize="14" Click="Btn3_Click" Foreground="White" BorderBrush="#FF444557"/>
+        <Button x:Name="Btn4" Content="WYKRESY" Grid.Row="0" Grid.Column="3" Margin="6,6" Background="#FF444557" FontFamily="Microsoft YaHei UI Light" FontSize="14" Click="Btn4_Click" Foreground="White" BorderBrush="#FF444557"/>
+        <Label Content="Zaloguj się, aby móc użyć paska menu" Grid.Column="1" Grid.ColumnSpan="2"  HorizontalAlignment="Left" Margin="24.8,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="397" Height="76" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontFamily="Microsoft JhengHei UI Light" FontSize="16">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+    </Grid>
+
+</Window>

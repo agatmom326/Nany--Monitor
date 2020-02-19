@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanyMonitor", "NanyMonitor\NanyMonitor.csproj", "{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryCameraClient", "NanyMonitor\RaspberryCameraClient\RaspberryCameraClient.csproj", "{1E56D528-25FB-4254-881C-D33027E18BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Debug|x86.Build.0 = Debug|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{B3C4D33E-AF2F-4568-A481-677BB4ED00B7}.Release|x86.Build.0 = Release|Any CPU
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Debug|x86.ActiveCfg = Debug|x86
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Debug|x86.Build.0 = Debug|x86
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Release|Any CPU.ActiveCfg = Release|x86
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Release|x86.ActiveCfg = Release|x86
+		{1E56D528-25FB-4254-881C-D33027E18BB8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AA95B2-9567-43E0-81CE-B1D63B9CB1DA}
+	EndGlobalSection
+EndGlobal

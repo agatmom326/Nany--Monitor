@@ -1,0 +1,54 @@
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe.config
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.pdb
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csprojAssemblyReference.cache
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\App.g.cs
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.cache
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.lref
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.baml
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.g.resources
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.Properties.Resources.resources
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csproj.GenerateResource.cache
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.exe
+C:\Users\agata\source\repos\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.pdb
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe.config
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.pdb
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csprojAssemblyReference.cache
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\App.g.cs
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.cache
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.lref
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.baml
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.g.resources
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.Properties.Resources.resources
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csproj.GenerateResource.cache
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.exe
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.pdb
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Stronaglowna.g.cs
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Stronaglowna.baml
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Danedziecka.g.cs
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Danedziecka.baml
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Nadzór.g.cs
+C:\Users\agata\Desktop\Biomedical Engeneering\semestr V\titsy projekt\NanyMonitor\NanyMonitor\obj\Debug\Nadzór.baml
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe.config
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.exe
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\bin\Debug\NanyMonitor.pdb
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csprojAssemblyReference.cache
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Danedziecka.g.cs
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Nadzór.g.cs
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Stronaglowna.g.cs
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\App.g.cs
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.cache
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor_MarkupCompile.lref
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Danedziecka.baml
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\MainWindow.baml
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Nadzór.baml
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\Stronaglowna.baml
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.g.resources
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.Properties.Resources.resources
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.csproj.GenerateResource.cache
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.exe
+C:\Users\Monika\Desktop\NanyMonitor\NanyMonitor\NanyMonitor\obj\Debug\NanyMonitor.pdb

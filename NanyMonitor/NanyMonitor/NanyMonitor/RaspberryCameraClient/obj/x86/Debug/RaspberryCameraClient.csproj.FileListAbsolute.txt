@@ -1,0 +1,16 @@
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\bin\Debug\RaspberryCameraClient.exe
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\bin\Debug\RaspberryCameraClient.pdb
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\bin\Debug\Eneter.Messaging.Framework.dll
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\bin\Debug\Eneter.Messaging.Framework.pdb
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\bin\Debug\Eneter.Messaging.Framework.xml
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.csprojAssemblyReference.cache
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\App.g.cs
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient_MarkupCompile.cache
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.g.resources
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.Properties.Resources.resources
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.csproj.GenerateResource.cache
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.csproj.CopyComplete
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.exe
+C:\Users\Monika\Desktop\RaspberryCamera\RaspberryCameraClient\RaspberryCameraClient\obj\x86\Debug\RaspberryCameraClient.pdb
